@@ -3,5 +3,6 @@ public class App {
         System.out.println("Alo mundo");
         System.out.println("bem vindo");
     }
+    <p>alterado no vs code
 }
 
